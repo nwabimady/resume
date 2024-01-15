@@ -24,11 +24,11 @@ function HeroSection() {
               sequence={[
                 "Nwabisa",
                 1000,
-                "Wed Developer",
+                "Web Developer",
                 1000,
                 "BIM Specialist",
                 1000,
-                "Architectural Consultant",
+                "Architect",
                 1000,
               ]}
               wrapper="span"
@@ -42,10 +42,10 @@ function HeroSection() {
           </p>
           <div className="">
             <button className="px-6 py-3 w-full sm:w-fit rounded-full mr-4 text-white bg-gradient-to-br from-sky-400 via-slate-400 to-orange-400 hover:bg-slate-200 hover:text-white">
-              Hire Me
+              Contact Me
             </button>
             <button className="px-1 py-1 w-full sm:w-fit rounded-full mr-4 text-slate-500 bg-gradient-to-br from-sky-400 via-slate-400 to-orange-400 mt-3 hover:text-white ">
-              <span className="block bg-white hover-slate-200 rounded-full px-5 py-2 hover:bg-slate-200">
+              <span className="block bg-white hover-slate-200 rounded-full px-5 py-2 hover:bg-gradient-to-br from-sky-300 via-slate-300 to-orange-300">
                 Download CV
               </span>
             </button>
