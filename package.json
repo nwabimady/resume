@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@heroicons/react": "^2.1.1",
     "babelrc": "^0.0.7",
     "framer-motion": "^10.18.0",
     "next": "^14.0.4",
